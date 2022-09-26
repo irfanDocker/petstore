@@ -291,7 +291,7 @@
     <spring.version>5.2.8.RELEASE</spring.version>
     <assertj.version>3.17.1</assertj.version>
     <mockito.version>3.5.9</mockito.version>
-    <hsqldb.version>2.5.1</hsqldb.version>
+    <hsqldb.version>2.7.0</hsqldb.version>
     <module.name>org.mybatis.jpetstore</module.name>
 
     <!-- Remove after parent 32 (support for jdk 13) -->
